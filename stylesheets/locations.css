@@ -1,0 +1,15 @@
+#locations {
+  margin: px-to-rem(120px) 0;
+  text-align: center;
+  color: white; }
+  #locations h2 {
+    font-size: px-to-rem(36px);
+    text-transform: uppercase; }
+  #locations #header-link {
+    font-size: px-to-rem(28px);
+    display: block;
+    color: #8a8a8a;
+    text-decoration: underline;
+    margin: px-to-rem(8px) 0 px-to-rem(22px); }
+  #locations:hover {
+    opacity: .7; }
